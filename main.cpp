@@ -11,6 +11,8 @@ int main() {
 
   cout << "Anna";
 
+  cout << "Deniss";
+
   cout << "Kristina";
 
   cout << "MaksimF";
