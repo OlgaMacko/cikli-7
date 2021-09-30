@@ -10,6 +10,10 @@ int main() {
   cout << "kuku"; // jekaterina blinova
 
   cout << "Anna";
+
+  cout << "Kristina";
+
   cout << "MaksimF";
   
+
 }
